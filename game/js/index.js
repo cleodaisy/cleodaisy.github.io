@@ -25,6 +25,12 @@ function play(){
     function safari() {
      var icecream =prompt("what website would you like to go to type wich one  kizi.com or slither.io(ater you play come back)");
       window.open("http://"+icecream)
+      if(sister){
+        ("you can not right click on slither.io only kizi.com if you want to see the code youu right click and press inspet there you go")
+      }
+        
+        
+         
     }
 //   var dog=confirm("do you want to know the code of kizi if do listen ")
 //   if(dog){
@@ -33,3 +39,4 @@ function play(){
     
     
 //   }
+  
