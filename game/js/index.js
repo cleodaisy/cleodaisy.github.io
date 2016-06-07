@@ -19,14 +19,14 @@ function play(){
   textbox.innerHTML="were would like to go google or safari?  google or safari<button onclick='google()'>Google</button> <button onclick='safari()'> safari</button>";
 }
  function google() {
-    prompt("type facebook.com see what happens")
+    sister=prompt("type facebook.com see what happens");
     window.open("http://"+sister)
   }
     function safari() {
      var icecream =prompt("what website would you like to go to type wich one  kizi.com or slither.io(ater you play come back)");
       window.open("http://"+icecream)
       if(sister){
-        ("you can not right click on slither.io only kizi.com if you want to see the code youu right click and press inspet there you go")
+        ("you can not right click on slither.io only kizi.com if you want to see the code you right click and press inspect there you go")
       }
         
         
